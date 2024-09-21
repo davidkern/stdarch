@@ -15345,8 +15345,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15411,8 +15411,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15534,8 +15534,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15600,8 +15600,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15723,8 +15723,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15789,8 +15789,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15912,8 +15912,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -15978,8 +15978,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -16128,8 +16128,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -16194,8 +16194,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -16343,8 +16343,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -16409,8 +16409,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -16558,8 +16558,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -16624,8 +16624,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -16773,8 +16773,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "1"
+        "minimum": 0,
+        "maximum": 1
       }
     },
     "Architectures": [
@@ -16839,8 +16839,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -20083,8 +20083,8 @@
         "register": "Vn.4H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -20112,8 +20112,8 @@
         "register": "Vn.4H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -20257,8 +20257,8 @@
         "register": "Vn.4H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -20344,8 +20344,8 @@
         "register": "Vn.4H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21435,8 +21435,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21463,8 +21463,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21492,8 +21492,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21520,8 +21520,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21548,8 +21548,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21577,8 +21577,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21605,8 +21605,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21633,8 +21633,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21662,8 +21662,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21690,8 +21690,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21718,8 +21718,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -21747,8 +21747,8 @@
         "register": "Hn"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -23607,8 +23607,8 @@
         "register": "Vn.8H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -23636,8 +23636,8 @@
         "register": "Vn.8H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -23781,8 +23781,8 @@
         "register": "Vn.8H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -23868,8 +23868,8 @@
         "register": "Vn.8H"
       },
       "n": {
-        "minimum": "1",
-        "maximum": "16"
+        "minimum": 1,
+        "maximum": 16
       }
     },
     "Architectures": [
@@ -24986,8 +24986,8 @@
         "register": "Vn.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -25403,8 +25403,8 @@
         "register": "Vn.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -26478,8 +26478,8 @@
         "register": "Vn.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -26590,8 +26590,8 @@
         "register": "Vn.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -26702,8 +26702,8 @@
         "register": "Vn.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -27119,8 +27119,8 @@
         "register": "Vn.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -28710,8 +28710,8 @@
         "register": "Vm.8B"
       },
       "n": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -29183,8 +29183,8 @@
         "register": "Vm.16B"
       },
       "n": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -29756,8 +29756,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -29864,8 +29864,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -30171,8 +30171,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -30207,8 +30207,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -30339,8 +30339,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -30447,8 +30447,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -30746,8 +30746,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -30779,8 +30779,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -30812,8 +30812,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -30845,8 +30845,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -30934,8 +30934,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -30967,8 +30967,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -31000,8 +31000,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31033,8 +31033,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31122,8 +31122,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -31155,8 +31155,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -31188,8 +31188,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31221,8 +31221,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31310,8 +31310,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -31343,8 +31343,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -31376,8 +31376,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31409,8 +31409,8 @@
       "a": {},
       "b": {},
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31570,8 +31570,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -31678,8 +31678,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -31983,8 +31983,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -32019,8 +32019,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -32151,8 +32151,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -32259,8 +32259,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -32871,8 +32871,8 @@
         "register": "Vn.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -33635,8 +33635,8 @@
         "register": "Vn.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -35391,8 +35391,8 @@
         "register": "Vt.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -37599,8 +37599,8 @@
         "register": "Vt.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -39588,8 +39588,8 @@
         "register": "Vt2.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -40745,8 +40745,8 @@
         "register": "Vt2.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -41896,8 +41896,8 @@
         "register": "Vt3.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -43053,8 +43053,8 @@
         "register": "Vt3.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -44204,8 +44204,8 @@
         "register": "Vt4.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -45361,8 +45361,8 @@
         "register": "Vt4.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -55596,8 +55596,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -55831,8 +55831,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -56550,8 +56550,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -56582,8 +56582,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -57890,8 +57890,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -58125,8 +58125,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -58897,8 +58897,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -58993,8 +58993,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -59234,8 +59234,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -59266,8 +59266,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -59379,8 +59379,8 @@
         "register": "Vm.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -59475,8 +59475,8 @@
         "register": "Vm.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -93167,8 +93167,8 @@
         "register": "Vd.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -93640,8 +93640,8 @@
         "register": "Vd.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -100154,8 +100154,8 @@
         "register": "Vt.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -102239,8 +102239,8 @@
         "register": "Vt.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -104070,8 +104070,8 @@
         "register": "Vt2.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -104941,8 +104941,8 @@
         "register": "Vt2.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -105801,8 +105801,8 @@
         "register": "Vt3.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -106672,8 +106672,8 @@
         "register": "Vt3.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
@@ -107538,8 +107538,8 @@
         "register": "Vt4.4H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "3"
+        "minimum": 0,
+        "maximum": 3
       }
     },
     "Architectures": [
@@ -108409,8 +108409,8 @@
         "register": "Vt4.8H"
       },
       "lane": {
-        "minimum": "0",
-        "maximum": "7"
+        "minimum": 0,
+        "maximum": 7
       }
     },
     "Architectures": [
