@@ -267,7 +267,8 @@ fn build_c(notices: &str, intrinsics: &Vec<Intrinsic>, compiler: Option<&str>, a
             let c_filename = format!(r#"c_programs/{}.cpp"#, i.name);
             let mut file = File::create(&c_filename).unwrap();
 
-            let c_code = generate_c_program(notices, &["arm_neon.h", "arm_fp16.h", "arm_acle.h"], i, a32);
+            let c_code =
+                generate_c_program(notices, &["arm_neon.h", "arm_fp16.h", "arm_acle.h"], i, a32);
             file.write_all(c_code.into_bytes().as_slice()).unwrap();
             match compiler {
                 None => true,
